@@ -1,0 +1,6 @@
+/* style.css */
+
+.dropdown-item li:hover {
+    background-color: #4F6F52;
+    color: #ffffff;
+}
